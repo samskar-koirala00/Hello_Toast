@@ -1,5 +1,6 @@
 package com.example.hellotoast;
 
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -16,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mShowCount = (TextView) findViewById(R.id.show_count);
+        mShowCount= findViewById(R.id.show_count);
     }
 
     public void showToast(View view) {
@@ -26,7 +27,19 @@ public class MainActivity extends AppCompatActivity {
 
     public void countUp(View view) {
         mCount++;
-        if (mShowCount != null)
+        if(mShowCount!= null){
             mShowCount.setText(Integer.toString(mCount));
+            findViewById(R.id.button_zero).setBackgroundColor(getResources().getColor(R.color.zeroButtonOnClick));
+        }
+
+    }
+
+    public void resetCount(View view){
+        mCount = 0;
+        mShowCount.setText(Integer.toString(mCount));
+        findViewById(R.id.button_zero).setBackgroundColor(getResources().getColor(R.color.zeroButton));
+
+
+
     }
 }
