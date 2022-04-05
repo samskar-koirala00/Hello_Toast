@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int mCount=0;
+    private int mCount = 0;
     private TextView mShowCount;
 
     @Override
