@@ -1,1 +1,9 @@
-# Hello_Toast
+![ActivityLifeCycleChallenge](https://user-images.githubusercontent.com/50354345/171139542-51263a08-574d-4400-bfb1-47043aab65e9.gif)
+![helloToastGIf](https://user-images.githubusercontent.com/50354345/171139594-0eaa07f2-f5c8-4278-9daf-f4bec51344bd.gif)
+![HomeworkGif](https://user-images.githubusercontent.com/50354345/171139614-b1260c38-f888-4520-9e40-fcd05f7c1888.gif)
+layoutEditorHomework](https://user-images.githubusercontent.com/50354345/171139632-47364160-f9c2-4c05-b64b-705430b1cf71.gif)
+![ScrollViewCodingChallengeGif](https://user-images.githubusercontent.com/50354345/171139647-55c136c2-d05a-486a-ad86-538f9e06ce7b.gif)
+![ScrollViewCodingHomeworkGif](https://user-images.githubusercontent.com/50354345/171140028-a8a4d1e1-626d-4c4d-ac16-e89b3e2bd7e4.gif)
+![ScrollViewGif](https://user-images.githubusercontent.com/50354345/171139909-ec2081a8-b65b-4ee4-918a-c851d56dc6c4.gif)
+![TwoActivities](https://user-images.githubusercontent.com/50354345/171139706-1ce1db28-f4dc-439b-91a4-41b25580093a.gif)
+![TwoActivitiesCodingChallenge](https://user-images.githubusercontent.com/50354345/171139727-aba2b594-da71-4a19-8864-45eb429a9c1f.gif)
